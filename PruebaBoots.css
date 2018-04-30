@@ -1,0 +1,12 @@
+#cajas {
+	background-color: #ededed;
+	height: 300px;
+	text-align: center;
+
+}
+#abajo {
+	top:50px;
+}
+#espacio {
+	border: 10px solid white;
+}
